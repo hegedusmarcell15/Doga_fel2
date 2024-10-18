@@ -1,0 +1,7 @@
+C:\Users\hegedusm\gitwork\Oraimunka11B\Doga_fel2\obj\Debug\Doga_fel2.csproj.AssemblyReference.cache
+C:\Users\hegedusm\gitwork\Oraimunka11B\Doga_fel2\obj\Debug\Doga_fel2.csproj.CoreCompileInputs.cache
+C:\Users\hegedusm\gitwork\Oraimunka11B\Doga_fel2\bin\Debug\Doga_fel2.exe.config
+C:\Users\hegedusm\gitwork\Oraimunka11B\Doga_fel2\bin\Debug\Doga_fel2.exe
+C:\Users\hegedusm\gitwork\Oraimunka11B\Doga_fel2\bin\Debug\Doga_fel2.pdb
+C:\Users\hegedusm\gitwork\Oraimunka11B\Doga_fel2\obj\Debug\Doga_fel2.exe
+C:\Users\hegedusm\gitwork\Oraimunka11B\Doga_fel2\obj\Debug\Doga_fel2.pdb
